@@ -1,5 +1,5 @@
 {
   "url":"https://ta88.com",
-  "api_url":"https://localhost:3001/api/v1",
+  "api_url":"https://localhost:3001/api/v1/",
   "image_url": "https://t3.ta88.com/"
 }
